@@ -1,0 +1,16 @@
+1. 	cd /usr/bin ls Ðal
+	34,124 files in /usr/bin
+
+2.	cat /proc/meminfo
+	.DirectMap4k used 524288 kb uses the highest memory
+
+3.	date
+	tells that the server is in the UTC timezone
+
+4.	cat /etc/group
+	found that there are 51 default groups
+
+5.	php 362.php
+	0,1,1,2,3,5,8,13,21,34,55,89,144,233,377,610,987,1597,2584,4181
+
+6.	The output from #5 just adds 1 to 0 if x less than 1, otherwise x+(previous )x
